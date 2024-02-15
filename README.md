@@ -6,6 +6,10 @@ Umpisahan na natin
 
 sige
 
+
 Mamaya isip na tayo ng topic
 
 tapos mag conceptualize tayo
+
+
+
