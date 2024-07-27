@@ -1,6 +1,9 @@
 ---
 title: "Operations on Integers"
-author: "Jaime and Leah"
+author: 
+  -Jaime Niel P. Alap
+  -Leah A. Camonayan
+date: 02/15/2024  
 format: html
 editor: visual
 ---
